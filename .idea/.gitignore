@@ -1,0 +1,30 @@
+# Java compiled files
+*.class
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp# Default ignored files
+/shelf/
+/workspace.xml
